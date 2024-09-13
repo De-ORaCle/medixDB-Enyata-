@@ -37,7 +37,7 @@ medixDB operates on a **B2B2C** model with revenue generated through:
 
 ## Contribution
 
-We welcome contributions! Please refer to the `CONTRIBUTING.md` file for guidelines on how to get started.
+We welcome contributions!
 
 ## Team
 
