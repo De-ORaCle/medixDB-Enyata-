@@ -41,7 +41,7 @@ We welcome contributions! Please refer to the `CONTRIBUTING.md` file for guideli
 
 ## Team
 
-- **Bukola Olapade** – Product Designer & Fullstack Developer
+- **Bukola Olapade** – Product Designer & Fullstack Developer  
   Email: benjaminolapade@gmail.com 
 
 - **Promise Enwelum** – Product Designer  
